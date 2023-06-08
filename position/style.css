@@ -1,0 +1,26 @@
+.notification{
+    background-color: #255;
+    height: 200px;
+    width: 200px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    position:relative;
+}
+.notification-count{
+    background-color: red;
+    border-radius: 20px;
+    color:#fff;
+    margin: 5px;
+    padding:5px;
+    position: absolute;
+    top:0;
+    right:0;
+}
+.fix{
+    height: 100px;
+    width: 50px;
+    bottom:0;
+    position:sticky;
+    background-color: blue;
+}
