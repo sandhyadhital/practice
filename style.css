@@ -1,0 +1,22 @@
+.nav-bar{
+    display: flex;
+    justify-content:  space-between;
+    
+}
+
+
+
+ul{
+    display: flex;
+    list-style: none;
+    gap: 15px;
+}
+h1{
+    color:rgba(150,250,200,);
+}
+body 
+  {
+    background-color:violet  ;
+    background-image: linear-gradient(to bottom left,black,white);
+
+}
